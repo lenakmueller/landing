@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  padding: 30px;
+  background-color: #3f4e4f82;
+}
+
+.footer p {
+  color: rgb(238, 237, 236);
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  margin: 25px;
+}
+
+.fa-brands, .fab {
+  font-family: "Font Awesome 6 Brands";
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(238, 237, 236);
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.list-inline li {
+  margin-right: 20px;
+}

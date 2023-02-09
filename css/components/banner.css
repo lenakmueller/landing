@@ -1,0 +1,26 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.banner h1 {
+  color: white
+}
+
+.banner h2 {
+  color: white
+}
+
+#logo {
+  margin: 10 auto;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.background-image {
+  object-position: bottom;
+}

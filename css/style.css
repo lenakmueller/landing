@@ -1,0 +1,37 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url(/landing/css/components/banner.css);
+@import url(/landing/css/components/footer.css);
+@import url(/landing/css/components/cards.css);
+@import url(/landing/css/components/button.css);
+
+body {
+  background-color: rgb(238, 237, 236);
+  color: #2E3D50;
+  font-size: 15px;
+  font-weight: 100;
+  margin: 10;
+  font-family: 'Open Sans', sans-serif;
+  padding: 10;
+}
+
+h1, h3, h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  color: #3F4E4F;
+
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  color: #3F4E4F;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
